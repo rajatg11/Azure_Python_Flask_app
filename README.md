@@ -35,3 +35,4 @@
 7.  **I don't need to do any deployment and this function(Subtraction End Point) will be available on the fly.**
             ![Third End Point Subtraction](third_end_point_image.png) 
         
+8.  **Do not forget to stop the WebApp**
