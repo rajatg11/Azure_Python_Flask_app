@@ -1,4 +1,4 @@
-# Flask App on Azure
+# Flask App on Azure (CI CD enabled)
 
 1. Login to [Azure Portal!](https://portal.azure.com/) 
 2. Create a Resource if not already created 
@@ -30,4 +30,8 @@
         3.  Do not forget to put '/' in the URL
             ![First End Point](Default_End_Point.png)  
     3.  Second End Point needs two inputs and return the sum of these numbers. As we do not have UI to enter inputs so we can use Curl command or Postman. I have choose Postman.
-            ![Second End Point](second_end_point_image.png)  
+            ![Second End Point Add](second_end_point_image.png)  
+6.  Added Third End Point/Subtraction method in the code and pushed to Github.
+7.  **I don't need to do any deployment and this function(Subtraction End Point) will be available on the fly.**
+            ![Third End Point Subtraction](third_end_point_image.png) 
+        
